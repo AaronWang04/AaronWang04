@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I am a third-year student at the University of Waterloo studying Computer Engineering.
+- I am working on LLM Inferencing at [CentML](https://centml.ai/cserve){:target="_blank"} as a ML Systems Engineer
+- How to reach me: a23wang@uwaterloo.ca
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-wang-waterloo/
+){:target="_blank"}!
+
 <!--
 **AaronWang04/AaronWang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
