@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I am a third-year student at the University of Waterloo studying Computer Engineering.
-- Currently working on LLM Inferencing at [CentML](https://centml.ai/cserve) as a ML Systems Engineer
+- Currently working on [PyTorch](https://github.com/pytorch/pytorch) at NVIDIA
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-wang-waterloo/)!
 - How to reach me: a23wang@uwaterloo.ca
 - Interested in ML, HPC, Systems
