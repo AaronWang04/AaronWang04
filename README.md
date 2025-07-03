@@ -1,5 +1,5 @@
 ## Hello
-- I am a third-year student at the University of Waterloo studying Computer Engineering.
+- I am a third-year student at the University of Waterloo studying Computer Engineering
 - Currently working on [PyTorch](https://github.com/pytorch/pytorch) at NVIDIA
 - Interested in ML, HPC, Systems
 <!--
